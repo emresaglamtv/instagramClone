@@ -1,7 +1,5 @@
 ## HEEY WELCOME TO MY CLONE PROJECT OF INSTAGRAM | META
 
-# Enjoy your inspection!
-
 *Thanks*
 
 **Emre SAGLAM**
