@@ -51,6 +51,30 @@ margin-right: 7px;
   color: lightgrey;
 }
 
-.card-header span i {
-  text-align: end;
+.card {
+  margin-top: 10px;
 }
+
+.card-header {
+  background-color: white;
+}
+
+.card-footer {
+  background-color: white;
+}
+
+.loc {
+  float: right;
+}
+
+.txt1 a{
+  color: rgb(0, 0, 0);
+  text-decoration: none;
+}
+
+.insta_abt a {
+  color: rgba(0, 0, 0, 0.671);
+}
+
+
+
