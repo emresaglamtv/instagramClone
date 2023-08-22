@@ -1,6 +1,6 @@
 ## HEEY WELCOME TO MY CLONE PROJECT OF INSTAGRAM | META
 
-# Enjoy your inspection
+# Enjoy your inspection!
 
 *Thanks*
 
